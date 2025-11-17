@@ -43,11 +43,14 @@ title('Upsampled Signal by a factor of L');
 ```
 ### OUTPUT: 
 
-<img width="1298" height="230" alt="Screenshot 2025-11-10 153652" src="https://github.com/user-attachments/assets/9e4b7768-71e4-4ee1-b733-da57005de949" />
+<img width="978" height="288" alt="image" src="https://github.com/user-attachments/assets/fbf08bbb-81a5-47d8-9cf1-12e8e8425049" />
 
-<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/4215a6cf-69ca-41e7-bd92-940cb1b97af6" />
 
-<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/a5f16cb0-6cae-4f54-8a3c-eeaad73b297d" />
+<img width="1618" height="859" alt="image" src="https://github.com/user-attachments/assets/7bbe1afb-eaaa-478f-a653-b3e17338729c" />
+
+
+<img width="1623" height="853" alt="image" src="https://github.com/user-attachments/assets/9843de8c-6df5-4cb6-9124-d6cb682550b4" />
+
 
 
 ### RESULT: 
