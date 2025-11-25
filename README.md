@@ -1,4 +1,4 @@
-# EXP 6 : SPEECH RECOGNITION USING SCILAB
+# EXP: 6 SIMULATION OF MULTIRATE DSP WITHOUT FUNCTION
 ## Oviya K P (212223060191)
 ### AIM: 
 To perform and verify multirate DSP without function using SCILAB. 
